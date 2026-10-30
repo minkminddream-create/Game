@@ -1,0 +1,6 @@
+{
+  "name": "AR Click & Collect",
+  "description": "Interactive Web AR Arcade Game with real-time Hand Tracking and Mouse modes",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
